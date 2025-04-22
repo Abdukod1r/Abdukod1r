@@ -32,7 +32,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F787&center=true&vCenter=true&width=450&lines=Hi+I'm+Abduqodir;Java+%7C+Spring+Boot+%7C+PostgreSQL+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F787&center=true&vCenter=true&width=450&lines=Hi+I'm+Abduqodir;Java+Spring+Boot+PostgreSQL+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
