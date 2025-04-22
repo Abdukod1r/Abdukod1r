@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abduqodir</h1>
 <h3 align="center">A passionate Backend Web Developer from Uzbekistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F787&center=true&vCenter=true&width=435&lines=I+am+a+Java+Developer;Spring+Boot+%7C+PostgreSQL+%7C+MongoDB;Backend+Lover+%7C+Clean+Code+Fan;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
