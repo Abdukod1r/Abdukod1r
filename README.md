@@ -49,9 +49,17 @@
 ---
 
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdukod1r&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdukod1r&layout=compact)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdukod1r&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdukod1r&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdukod1r&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdukod1r&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
