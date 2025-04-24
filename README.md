@@ -47,13 +47,11 @@
 </div>
 
 ---
-
-<div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdukod1r&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdukod1r&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdukod1r&theme=dark)
-</div>
-
+<p>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdukod1r&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdukod1r&layout=compact)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdukod1r&theme=dark)
+</p>
 ---
 
 
